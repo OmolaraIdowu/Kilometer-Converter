@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kilometer Converter</string>
+    <string name="kilometer_to_miles">Kilometer to Miles</string>
+    <string name="convert">Convert</string>
+    <string name="kilometer">Kilometer</string>
+</resources>
